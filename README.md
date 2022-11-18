@@ -24,13 +24,13 @@ Sections
 <!--- Visitor Counts Area Ends --->
 
 <!--- About me section start--->
-## About Me
+## 🌵 About Me
 - [Insert text here...]
 - [Insert text here...]
 <!--- About Me section ends
 
 <!--- Language section starts --->
-## Languages
+## 🖥️ Languages
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -38,24 +38,26 @@ Sections
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 <img alt="BASH" src="https://img.shields.io/badge/BASH-%234EAA25.svg?&style=for-the-badge&logo=gnubash&logoColor=white"/><br>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 <!--- Language section ends --->
 
 <!--- Tools section start --->
-## Tools
+## 🛠️ Tools
 
  ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
  <img src="http://img.shields.io/badge/-VAGRANT-blue?style=flat&logo=VAGRANT">
  <img src="http://img.shields.io/badge/-LINUX-black?style=flat&logo=LINUX">
+ ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 <!--- Tools section ends --->
 
 <!--- Skill Section start --->
-## Skills
+## 🧰 Skills
 <!--- Skill Section ends --->
 
 <!--- Showcase Section start --->
-## Showcase
+## 🏆 Showcase
 <!--- Showcase Section ends --->
 
 <!--- 
