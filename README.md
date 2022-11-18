@@ -1,7 +1,3 @@
-Sections
-- Banner (Andy Stone, Software Engineer)
-- Resume (pdf)
-
 <!--- Banner Area Starts --->
 <!--- Banner Area Ends --->
 
@@ -10,10 +6,10 @@ Sections
 <a href="https://www.linkedin.com/in/andrew-stone-47234734/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
-
 <a href="mailto: andystone40@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
+<a href='[Resume link]'><img src="https://img.shields.io/badge/RESUME-forestgreen?style=for-the-badge"></a>
 </h3>
 <!--- Contact Information Area Ends --->
 
