@@ -33,7 +33,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-<img alt="BASH" src="https://img.shields.io/badge/BASH-%234EAA25.svg?&style=for-the-badge&logo=gnubash&logoColor=white"/><br>
+<img alt="BASH" src="https://img.shields.io/badge/BASH-%234EAA25.svg?&style=for-the-badge&logo=gnubash&logoColor=white"/>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 <!--- Language section ends --->
@@ -51,6 +51,18 @@
 
 <!--- Skill Section start --->
 ## 🧰 Skills
+Soft Skills:
+- Problem Solving
+- Communication Skills
+- Team work 
+- Observation Skills
+
+Hard Skills:
+- Data Structure & Algorithms
+- Object-Oriented Programming Systems (OOPS)
+- Databases & DBMS
+- Operating System (OS)
+- Development
 <!--- Skill Section ends --->
 
 <!--- Showcase Section start --->
