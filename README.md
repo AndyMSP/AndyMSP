@@ -81,4 +81,10 @@ Hard Skills:
 Resources
 For any badge that you will like to add to your README (https://github.com/Ileriayo/markdown-badges)
 For any emojis that you will like to add to your README (https://gist.github.com/kajal1106/b0bf3b9f93b4f484dc3703c8c64bbe1c)
+
+Top Banner (https://www.canva.com/design/DAFSQZ3jPQI/lwzq-C9DMgNHdrPGh6wCXA/edit?utm_content=DAFSQZ3jPQI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+Footer
+ - Background will need to be removed if theres any changes
+(https://www.canva.com/design/DAFSZ1bgxy0/tJRBk70o-afainTnxNiQWA/edit?utm_content=DAFSZ1bgxy0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 --->
