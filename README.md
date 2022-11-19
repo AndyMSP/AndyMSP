@@ -67,9 +67,18 @@ Hard Skills:
 
 <!--- Showcase Section start --->
 ## 🏆 Showcase
+- ![Demonstration of Automated Designs](https://youtu.be/9N0paEMqEB4)
+- ![Holberton Puerto Rico Demo Day C#17](https://youtu.be/Tzth7BPhAWY?t=382)
 <!--- Showcase Section ends --->
+
+<!--- Footer Sections start --->
+<img src="https://user-images.githubusercontent.com/96942307/202857503-de17dfb6-5078-4499-b546-ff8b3de31bd4.png">
+
+<!--- Footer Sections ends --->
+
 
 <!--- 
 Resources
 For any badge that you will like to add to your README (https://github.com/Ileriayo/markdown-badges)
+For any emojis that you will like to add to your README (https://gist.github.com/kajal1106/b0bf3b9f93b4f484dc3703c8c64bbe1c)
 --->
