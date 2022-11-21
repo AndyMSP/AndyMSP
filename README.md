@@ -67,8 +67,8 @@ Hard Skills:
 
 <!--- Showcase Section start --->
 ## 🏆 Showcase
-- ![Demonstration of Automated Designs](https://youtu.be/9N0paEMqEB4)
-- ![Holberton Puerto Rico Demo Day C#17](https://youtu.be/Tzth7BPhAWY?t=382)
+- [Demonstration of Automated Designs](https://youtu.be/9N0paEMqEB4)
+- [Holberton Puerto Rico Demo Day C#17](https://youtu.be/Tzth7BPhAWY?t=382)
 <!--- Showcase Section ends --->
 
 <!--- Footer Sections start --->
