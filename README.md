@@ -23,8 +23,7 @@
 
 <!--- About me section start--->
 ## 🌵 About Me
-- [Insert text here...]
-- [Insert text here...]
+- I am a mechanical engineer who took an interest in software development.  I went to learn software at Holberton School for a year and am now trying to break into the software engineering world!
 <!--- About Me section ends
 
 <!--- Language section starts --->
